@@ -1,0 +1,15 @@
+// Place all the styles related to the games controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+body{
+  font-family: 'Open Sans', sans-serif;
+  margin: 0 20px;
+}
+
+.letter{
+  color: white;
+  background-size: 80px 80px;
+  background-color: #0095DF;
+  margin: 25 px;
+  font-family: 'Roboto Slab', serif;
+}
